@@ -1,7 +1,6 @@
 # Roblox Scripts Hub
-This hub contains scripts that i use personally. 
-
-**Most of the included Scripts are not made by Me**
+This is a collection of good quallity roblox scripts.
+**Most of the included Scripts in the Hub's are not made by Me!*
 
 **All credit to their respective owners** 
 
@@ -19,7 +18,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/UnboundedScripts/uscr
 
 **MM2🔴**
 
-**Ball Test🟢**
+**Ball Test🟢** - Developed by rhuda21
 
 
 🔴 = DOWN
