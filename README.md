@@ -9,9 +9,9 @@ This hub contains scripts that i use personally.
 
 ### Script
 
-Start the script by using the code below or by copying it from [this link](https://raw.githubusercontent.com/rhuda21/rscriptloader/refs/heads/main/Files/MainLoad.lua)
+Start the script by using the code below or by copying it from [this link](https://raw.githubusercontent.com/UnboundedScripts/uscriptloader/refs/heads/main/Files/MainLoad.lua)
 ```
-loadstring(game:HttpGet("", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnboundedScripts/uscriptloader/refs/heads/main/main.lua", true))()
 ```
 
 # STATUS
